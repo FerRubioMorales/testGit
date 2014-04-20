@@ -45,6 +45,7 @@ class PageController extends Controller
                 die("no es valido!");
             }
         }
+        
         return array();
     }
 }
